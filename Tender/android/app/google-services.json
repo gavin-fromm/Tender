@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058069644988",
+    "project_id": "recipeal-d9471",
+    "storage_bucket": "recipeal-d9471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058069644988:android:14a22f9d028c3943f532b9",
+        "android_client_info": {
+          "package_name": "com.example.food_for_thought"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtrRzcqdCYC3GYWp--rro__J9BX4YxGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
