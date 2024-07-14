@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69287062119",
+    "project_id": "tender-d2d03",
+    "storage_bucket": "tender-d2d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69287062119:android:61301db514725622be82c2",
+        "android_client_info": {
+          "package_name": "com.ten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw3eSyKvDlU0BxuPIU8yEPOSGoLoVWhms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
